@@ -2,9 +2,6 @@
 # Imports
 #----------------------------------------------------------------------------#
 
-
-
-
 import json
 import dateutil.parser
 import babel
